@@ -1,5 +1,11 @@
 # React-shop-cloudfront
 
+## Links
+| Service | URL |
+| ------ | ------ |
+| S3 Website | [http://voltum-cloudfront-auto.s3-website.eu-north-1.amazonaws.com/](http://voltum-cloudfront-auto.s3-website.eu-north-1.amazonaws.com/) |
+| Cloudfront | [https://d149o9eob7bgpx.cloudfront.net/](https://d149o9eob7bgpx.cloudfront.net/) |
+
 This is frontend starter project for nodejs-aws mentoring program. It uses the following technologies:
 
 - [Vite](https://vitejs.dev/) as a project bundler
